@@ -2,3 +2,4 @@ New File Added
 LogIn
 Register
 Dashborad
+courses
